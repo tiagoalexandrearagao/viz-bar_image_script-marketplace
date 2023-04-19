@@ -14,7 +14,7 @@ Eligible students can apply for platform credits through our new [Heroku for Git
 
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
-```sh
+```
 $ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
 $ cd php-getting-started
 $ heroku create
@@ -31,4 +31,9 @@ or
 For more information about using PHP on Heroku, see these Dev Center articles:
 
 - [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+
+# [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+
+# viz-bar_image_script-marketplace
+
+> > > > > > > 4d93a82564c90ed41d67bb90836e2a9f47ff30c0
